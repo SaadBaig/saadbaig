@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm just trying to have some fun contributing to the digital world
 <!--
 **SaadBaig/saadbaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
