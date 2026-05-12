@@ -1,6 +1,6 @@
 ## Saad Baig
 
-A security engineer having fun securing the digital world 😄
+A security engineer having fun attacking & securing the digital world 😄
 
 Here are some of the projects I'm currently working on:
 
