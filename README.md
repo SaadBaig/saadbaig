@@ -8,4 +8,4 @@ Here are some of the projects I'm currently working on:
 
 * https://github.com/SaadBaig/Pentesting-Methodology - What began as handwritten notes documenting my pentesting workflow has evolved into a structured, end-to-end testing methodology. This repository reflects how I approach real-world engagements—covering enumeration, exploitation, and post-exploitation in a practical, repeatable way.
 
-* https://github.com/SaadBaig/DDoSing-DEFCON-2026 - Me and 3 other engineers are creating a contest for the DDoS village at DEFCON 2026 :) This repository documents our journey journal style :) 
+* https://github.com/SaadBaig/DDoSing-DEFCON-2026 - A team of hackers setting up in the DDoS Village at DEFCON 34 (2026). We're building a contest around hacked Temu WiFi repeaters — turning them into a DDoS botnet that offensive players can use to take down our targets. This repository documents our journey journal style :) 
