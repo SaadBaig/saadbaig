@@ -4,7 +4,14 @@ A security engineer having fun attacking & securing the digital world 😄
 
 Here are the projects I'm currently working on:
 
-* https://github.com/SaadBaig/pqcscan - This fork extends the original [pqcscan](https://github.com/anvilsecure/pqcscan) by Anvil Secure with full TLS handshake validation, negotiated behavior analysis, and downgrade attack detection. The tool validates ML-KEM key exchange across all NIST FIPS 203 variants — ML-KEM-512, ML-KEM-768, ML-KEM-1024, plus hybrid schemes (X25519MLKEM768, SECP256R1MLKEM768, SECP384R1MLKEM1024). The tool executes the full handshake lifecycle—key exchange, encrypted extensions, certificate verification, and Finished messages—moving beyond simple ClientHello/ServerHello inspection to confirm actual cryptographic behavior. This helps surface gaps between advertised PQC support and what servers actually negotiate in practice.
+* https://github.com/SaadBaig/pqcscan - This fork extends the original [pqcscan](https://github.com/anvilsecure/pqcscan) by Anvil Secure. pqcscan is a TLS network scanner designed to verify that servers can actually handle next-generation **Post-Quantum Cryptography (PQC)**. While basic scanners only check if a server *claims* to support quantum-safe algorithms in its initial greeting, this tool executes a **complete end-to-end TLS handshake**—processing everything from the key exchange and encrypted extensions down to certificate verification and the final `Finished` messages. 
+
+Crucially, it validates both standalone PQC algorithms and **hybrid schemes** across these exact standards:
+
+* **Pure Post-Quantum (NIST FIPS 203):** `ML-KEM-512`, `ML-KEM-768`, and `ML-KEM-1024`.
+* **Hybrid Schemes (PQC + Classical ECC):** `X25519MLKEM768`, `SECP256R1MLKEM768`, and `SECP384R1MLKEM1024`.
+
+By testing these specific configurations through the full connection lifecycle, the tool bridges the gap between advertised support and real-world negotiation, ensuring servers aren't vulnerable to **downgrade attacks** that trick them into stripping away the post-quantum layer and falling back to weaker, classical security.
 
 * https://github.com/SaadBaig/Pentesting-Methodology - What began as handwritten notes documenting my pentesting workflow has evolved into a structured, end-to-end testing methodology. This repository reflects how I approach real-world engagements—covering enumeration, exploitation, and post-exploitation in a practical, repeatable way.
 
