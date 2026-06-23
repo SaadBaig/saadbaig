@@ -42,7 +42,7 @@ A structured, end-to-end testing methodology covering enumeration, exploitation,
   <img src="https://saadbaig.github.io/images/ddos.jpg" alt="DDoSing DEFCON" width="100%"/>
 </a>
 
-Building a DDoS contest for DEFCON 34 using hacked Temu WiFi repeaters as a botnet. Documented journal-style :)
+Building a DDoS contest for DEFCON 34 2026 using hacked Temu WiFi repeaters as a botnet. Documented journal-style :)
 
 </td>
     <td width="50%" valign="top">
