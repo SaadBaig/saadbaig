@@ -6,8 +6,6 @@
   </a>
 </h1>
 
----
-
 ### 🚀 Projects
 
 <table>
