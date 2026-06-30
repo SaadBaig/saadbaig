@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003B00,100:00FF41&height=200&section=header&text=root@saad:~%23&fontSize=40&fontColor=00FF41&fontAlignY=35&desc=Access%20Granted&descColor=00FF41&descAlignY=55&animation=twinkling" width="100%"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Saad+Baig;Security+Engineer;Attacking+%26+Securing+the+Digital+World" alt="Typing SVG" />
   </a>
 </h1>
+
+---
 
 ### 🚀 Projects
 
@@ -23,6 +25,19 @@ Fork of [Anvil Secure's pqcscan](https://github.com/anvilsecure/pqcscan). A TLS 
 </td>
     <td width="50%" valign="top">
 
+#### 💥 [DDoSing-DEFCON-2026](https://github.com/SaadBaig/DDoSing-DEFCON-2026)
+
+<a href="https://github.com/SaadBaig/DDoSing-DEFCON-2026">
+  <img src="https://saadbaig.github.io/images/ddos.jpg" alt="DDoSing DEFCON" width="100%"/>
+</a>
+
+Building a DDoS contest for DEFCON 34 using hacked Temu WiFi repeaters as a botnet. Documented journal-style :)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
 #### 🧪 [Pentesting-Methodology](https://github.com/SaadBaig/Pentesting-Methodology)
 
 <a href="https://github.com/SaadBaig/Pentesting-Methodology">
@@ -30,19 +45,6 @@ Fork of [Anvil Secure's pqcscan](https://github.com/anvilsecure/pqcscan). A TLS 
 </a>
 
 A structured, end-to-end testing methodology covering enumeration, exploitation, and post-exploitation. Evolved from handwritten notes into a repeatable workflow for real-world engagements.
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 💥 [DDoSing-DEFCON-2026](https://github.com/SaadBaig/DDoSing-DEFCON-2026)
-
-<a href="https://github.com/SaadBaig/DDoSing-DEFCON-2026">
-  <img src="https://saadbaig.github.io/images/ddos.jpg" alt="DDoSing DEFCON" width="100%"/>
-</a>
-
-Building a DDoS contest for DEFCON 34 2026 using hacked Temu WiFi repeaters as a botnet. Documented journal-style :)
 
 </td>
     <td width="50%" valign="top">
