@@ -49,10 +49,10 @@ A structured, end-to-end testing methodology covering enumeration, exploitation,
 </td>
     <td width="50%" valign="top">
 
-#### 🎯 [Hack-the-Box-CPTS](https://github.com/SaadBaig/Hack-the-Box-CPTS)
+#### 🎯 [Certified Red Team Operator](github.com/SaadBaig/Certified-Red-Team-Operater-CRTO)
 
-<a href="https://github.com/SaadBaig/Hack-the-Box-CPTS">
-  <img src="https://www.hackthebox.com/storage/blog/lv58zP0Nc1rigRR47QTY0v21HfHBkBGe.jpg" alt="Hack The Box CPTS" width="100%"/>
+<a href="https://github.com/SaadBaig/Certified-Red-Team-Operater-CRTO">
+  <img src="https://github.com/SaadBaig/Certified-Red-Team-Operater-CRTO/blob/main/images/crto.png?raw=true" alt="CRTO" width="100%"/>
 </a>
 
 My journey to get the CPTS :)
