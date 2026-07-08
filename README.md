@@ -47,7 +47,7 @@ A structured, end-to-end testing methodology covering enumeration, exploitation,
 </td>
     <td width="50%" valign="top">
 
-#### 🎯 [Certified Red Team Operator](https://github.com/SaadBaig/Certified-Red-Team-Operater-CRTO)
+#### 🎯 [Certified Red Team Operator](https://github.com/SaadBaig/Certified-Red-Team-Operator-CRTO)
 
 <a href="https://github.com/SaadBaig/Certified-Red-Team-Operater-CRTO">
   <img src="https://github.com/SaadBaig/Certified-Red-Team-Operater-CRTO/blob/main/images/crto.png?raw=true" alt="CRTO" width="100%"/>
