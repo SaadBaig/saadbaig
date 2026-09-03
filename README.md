@@ -39,7 +39,7 @@ Building a DDoS contest for DEFCON 34 using hacked Temu WiFi repeaters as a botn
 #### 🧪 [Pentesting-Methodology](https://github.com/SaadBaig/Pentesting-Methodology)
 
 <a href="https://github.com/SaadBaig/Pentesting-Methodology">
-  <img src="https://image-optimizer.cyberriskalliance.com/unsafe/1920x0/https://files.cyberriskalliance.com/wp-content/uploads/2024/04/penetrationtest_AdobeStockImages_cropped-scaled.jpg" alt="Pentesting Methodology" width="100%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIvOMm8TdQ8BtpQAH2EVpvMcr2u7bH13K94R2cteYULyDYBvnOr6b_FU&s=10" alt="Pentesting Methodology" width="100%"/>
 </a>
 
 A structured, end-to-end testing methodology covering enumeration, exploitation, and post-exploitation. Evolved from handwritten notes into a repeatable workflow for real-world engagements.
