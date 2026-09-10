@@ -15,7 +15,7 @@
 #### 🔐 [pqcscan](https://github.com/SaadBaig/pqcscan)
 
 <a href="https://github.com/SaadBaig/pqcscan">
-  <img src="https://github.com/SaadBaig/SaadBaig.Github.io/blob/master/images/pqcscan.jpg" alt="pqcscan" width="100%"/>
+  <img src="https://github.com/SaadBaig/SaadBaig.Github.io/blob/master/images/projects/pqcscan.webp" alt="pqcscan" width="100%"/>
 </a>
 
 Fork of [Anvil Secure's pqcscan](https://github.com/anvilsecure/pqcscan). A TLS scanner that performs full end-to-end handshakes to verify real Post-Quantum Cryptography support (ML-KEM-512/768/1024, X25519MLKEM768, SECP256R1MLKEM768, SECP384R1MLKEM1024) — catching downgrade attacks that basic scanners miss.
@@ -26,7 +26,7 @@ Fork of [Anvil Secure's pqcscan](https://github.com/anvilsecure/pqcscan). A TLS 
 #### 💥 [DDoSing-DEFCON-2026](https://github.com/SaadBaig/DDoSing-DEFCON-2026)
 
 <a href="https://github.com/SaadBaig/DDoSing-DEFCON-2026">
-  <img src="https://saadbaig.github.io/images/ddos.jpg" alt="DDoSing DEFCON" width="100%"/>
+  <img src="https://github.com/SaadBaig/SaadBaig.Github.io/blob/master/images/projects/ddos.webp" alt="DDoSing DEFCON" width="100%"/>
 </a>
 
 Building a DDoS contest for DEFCON 34 using hacked Temu WiFi repeaters as a botnet. Documented journal-style :)
