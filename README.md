@@ -47,10 +47,10 @@ A structured, end-to-end testing methodology covering enumeration, exploitation,
 </td>
     <td width="50%" valign="top">
 
-#### 🎯 [Certified Red Team Operator](https://github.com/SaadBaig/Certified-Red-Team-Operator-CRTO)
+#### 🎯 [Hack The Box CPTS](https://github.com/SaadBaig/Hack-the-Box-CPTS)
 
 <a href="https://github.com/SaadBaig/Certified-Red-Team-Operator-CRTO">
-  <img src="https://github.com/SaadBaig/Certified-Red-Team-Operator-CRTO/blob/main/images/crto.png?raw=true" alt="CRTO" width="100%"/>
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.hackthebox.com%2Fblog%2Fcertified-penetration-testing-specialist-cpts&ved=0CBYQjRxqFwoTCPjf4M3Y5JYDFQAAAAAdAAAAABBq&opi=89978449" alt="CPTS" width="100%"/>
 </a>
 
 My journey to get the CPTS :)
