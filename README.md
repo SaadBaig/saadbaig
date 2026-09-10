@@ -6,14 +6,11 @@
   </a>
 </h1>
 
-### 🚀 Projects
-
 <table>
   <tr>
     <td width="50%" valign="top">
 
 #### 🔐 [pqcscan](https://github.com/SaadBaig/pqcscan)
-
 <a href="https://github.com/SaadBaig/pqcscan">
   <img src="https://github.com/SaadBaig/SaadBaig.Github.io/blob/master/images/projects/pqcscan.webp" alt="pqcscan" width="100%"/>
 </a>
