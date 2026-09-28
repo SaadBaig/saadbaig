@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  Offensive security engineer — penetration testing, reverse engineering, and open-source tooling.<br/>
-  Exploring post-quantum cryptography. Spoken at <b>RMISC</b>, <b>IEEE</b>, <b>BSides</b>, and <b>OWASP</b>.
+  Hey, I'm Saad 👋 — a security engineer who loves taking things apart to figure out how they really work.<br/>
+  I spend my time on offensive security, building open-source tools, and contributing to post-quantum cryptography and PKI.<br/>
 </p>
 
 <p align="center">
