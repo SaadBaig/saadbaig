@@ -12,36 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Offensive_Security-00FF41?style=for-the-badge&labelColor=0d1117" alt="Focus: Offensive Security"/>
-  <img src="https://img.shields.io/badge/Currently-CPTS_%2F_Post--Quantum-00FF41?style=for-the-badge&labelColor=0d1117" alt="Currently: CPTS / Post-Quantum"/>
-</p>
-
-<h3 align="center">Arsenal</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&logo=ghidra&logoColor=white&labelColor=0d1117" alt="Ghidra"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d1117" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0d1117" alt="nmap"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" alt="Kali Linux"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" alt="Rust"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=0d1117" alt="C"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Assembly"/>
-</p>
-
-<p align="center">
   <a href="https://saadbaig.dev">
     <img src="https://img.shields.io/badge/Portfolio-saadbaig.dev-00FF41?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sudosaad/">
     <img src="https://img.shields.io/badge/LinkedIn-sudosaad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/SaadBaig">
-    <img src="https://img.shields.io/badge/GitHub-SaadBaig-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
   </a>
   <a href="mailto:sudosaadbaig@gmail.com">
     <img src="https://img.shields.io/badge/Email-sudosaadbaig@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
